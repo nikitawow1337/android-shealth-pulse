@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Sep 05 16:49:07 MSK 2018
+2.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=DEX
+4.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_la1uncher.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+0.set=ANDROID_RESOURCE

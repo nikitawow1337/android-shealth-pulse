@@ -1,0 +1,4 @@
+#Wed Sep 05 16:49:07 MSK 2018
+base.0=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

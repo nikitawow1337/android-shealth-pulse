@@ -1,0 +1,334 @@
+[
+    {
+        "outputFile": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 41,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 41,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 72,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 72,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 43,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 43,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 98,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 98,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 80,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 80,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 81,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 81,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 82,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 82,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 71,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 71,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 73,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 73,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 756,
+                    "endColumn": 73,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 73,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 41,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 41,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 33,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 33,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 38,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 38,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 37,
+                    "endOffset": 978
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 37,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 983,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "C:\\Users\\rave\\Desktop\\android-shealth-pulse\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

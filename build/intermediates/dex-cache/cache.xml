@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rave\Desktop\android-shealth-pulse\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="497b0c521405abd12cca805a0ea75a9c9e52e78d">
+        <dex dex="C:\Users\rave\Desktop\android-shealth-pulse\build\intermediates\pre-dexed\debug\sdk-v1.0.0_3841e61afd432de359fe86735b95c12db40f7269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rave\Desktop\android-shealth-pulse\libs\samsung-health-data-v1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16d90cbf2e3333064cd4a1810646bd658c63195f">
+        <dex dex="C:\Users\rave\Desktop\android-shealth-pulse\build\intermediates\pre-dexed\debug\samsung-health-data-v1.3.0_b9875c236217bf3d7b5913b89039bd4b6990f0f2.jar" />
+    </item>
+
+</items>

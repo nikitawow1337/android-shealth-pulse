@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Health</string>
+    <string name="cancel">Cancel</string>
+    <string name="connect_to_shealth">Connect to Samsung Health</string>
+    <string name="desc">Heart Rate</string>
+    <string name="msg_conn_not_available">Connection with Samsung Health is not available</string>
+    <string name="msg_perm_acquired">All permissions should be acquired</string>
+    <string name="msg_req_agree">Please agree with Samsung Health policy</string>
+    <string name="msg_req_available">Please make Samsung Health available</string>
+    <string name="msg_req_enable">Please enable Samsung Health</string>
+    <string name="msg_req_install">Please install Samsung Health</string>
+    <string name="msg_req_upgrade">Please upgrade Samsung Health</string>
+    <string name="notice">Notice</string>
+    <string name="ok">OK</string>
+    <string name="title1">Now</string>
+    <string name="unit1">BPM</string>
+    <style name="AppBaseTheme" parent="android:Theme.DeviceDefault.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
